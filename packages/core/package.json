@@ -1,6 +1,6 @@
 {
   "name": "@jingdong-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "core",
   "author": "qietubaby <201951244@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@jingdong-cli/utils": "^1.0.0"
+    "@jingdong-cli/utils": "^1.0.1"
   },
   "gitHead": "bc17f827d9ad356c3afbb6e9d3f167d2a1075373"
 }
