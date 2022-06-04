@@ -1,0 +1,14 @@
+{
+  "name": "jingdong-cli",
+  "version": "1.0.0",
+  "description": "jingdong-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  }
+}
