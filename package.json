@@ -1,6 +1,6 @@
 {
   "name": "jingdong-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "jingdong-cli",
   "main": "index.js",
   "scripts": {
