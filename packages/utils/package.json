@@ -1,6 +1,6 @@
 {
   "name": "@jingdong-cli/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "utils",
   "author": "qietubaby <201951244@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "bc17f827d9ad356c3afbb6e9d3f167d2a1075373"
+  "gitHead": "3e02b1a5d665ee3f071329a3d502eef837731e65"
 }
